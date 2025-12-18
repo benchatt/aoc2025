@@ -3,11 +3,13 @@ mod problem02;
 mod problem03;
 mod problem04;
 mod problem05;
+mod problem06;
 
 fn main() {
     // problem01::main();
     // problem02::find_valid();
     // problem03::find_joltage();
     // problem04::route_forklifts();
-    problem05::check_freshness();
+    // problem05::check_freshness();
+    problem06::squid_math();
 }
