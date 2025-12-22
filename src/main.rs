@@ -5,6 +5,7 @@ mod problem04;
 mod problem05;
 mod problem06;
 mod problem07;
+mod problem08;
 
 fn main() {
     // problem01::main();
@@ -13,5 +14,6 @@ fn main() {
     // problem04::route_forklifts();
     // problem05::check_freshness();
     // problem06::squid_math();
-    problem07::count_splits();
+    // problem07::count_splits();
+    problem08::connect_lights();
 }
