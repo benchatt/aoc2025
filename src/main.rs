@@ -5,7 +5,7 @@ mod problem04;
 mod problem05;
 mod problem06;
 mod problem07;
-mod problem08;
+mod problem09;
 
 fn main() {
     // problem01::main();
@@ -15,5 +15,6 @@ fn main() {
     // problem05::check_freshness();
     // problem06::squid_math();
     // problem07::count_splits();
-    problem08::connect_lights();
+    // problem08::connect_lights();
+    problem09::find_rectangle();
 }
